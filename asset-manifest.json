@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Distroease-Stripe/static/css/main.d09a1a59.css",
+    "main.css": "/Distroease-Stripe/static/css/main.751dfe3b.css",
     "main.js": "/Distroease-Stripe/static/js/main.6de82277.js",
     "static/js/453.8ab44547.chunk.js": "/Distroease-Stripe/static/js/453.8ab44547.chunk.js",
     "index.html": "/Distroease-Stripe/index.html",
-    "main.d09a1a59.css.map": "/Distroease-Stripe/static/css/main.d09a1a59.css.map",
+    "main.751dfe3b.css.map": "/Distroease-Stripe/static/css/main.751dfe3b.css.map",
     "main.6de82277.js.map": "/Distroease-Stripe/static/js/main.6de82277.js.map",
     "453.8ab44547.chunk.js.map": "/Distroease-Stripe/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d09a1a59.css",
+    "static/css/main.751dfe3b.css",
     "static/js/main.6de82277.js"
   ]
 }
